@@ -32,6 +32,11 @@ _Last updated: 2026-09-21_
 - National data suggests well-capitalized players (Walmart, Costco, Aldi, Target) are expanding/remodeling aggressively in the same window Meridian is evaluating Pasadena — unknown whether any of them are targeting Meridian's specific trade areas (LA/Orange/Ventura) or the Pasadena site itself. See [industry-context](industry-context.md).
 - Meridian's specialty positioning maps to the "curated experience" segment reportedly gaining share nationally — unclear whether Dana sees this validated by Meridian's own numbers, or whether it's an assumption to test.
 
+## Consumer behavior
+
+- National data shows a "barbell" split (premium vs. value, middle squeezed) and private label now >21% of grocery spend — unknown whether Meridian's own transaction/loyalty data would show the same pattern among its customers, or whether store-brand/private-label is even part of Meridian's current assortment strategy. See [industry-context](industry-context.md).
+- The reported shift toward frequent "bite-sized trips" could reinforce or undercut Meridian's smaller-footprint model depending on convenience execution — no current read on Meridian's own visit-frequency trends.
+
 ## See also
 
 - [business-overview](business-overview.md)

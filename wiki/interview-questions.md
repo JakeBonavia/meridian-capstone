@@ -39,6 +39,11 @@ _Last updated: 2026-09-21_
 14. National coverage suggests specialty/curated grocery formats are gaining share while traditional and discount grocers plateau or pull back — does that match what you're seeing across your own 14 stores? *(resolves: "Meridian's specialty positioning maps to the curated-experience segment")*
 15. Are any of the large chains (Walmart, Costco, Aldi, Target) expanding aggressively into your trade areas or toward the Pasadena site specifically, as far as you know? *(resolves: competitive-expansion overlap gap)*
 
+## Consumer behavior & private label
+
+16. Nationally, private label now makes up over a fifth of grocery spending — does Meridian carry a store-brand line today, and if so, how big a share of sales is it? *(resolves: private-label strategy gap)*
+17. Do you have a sense of whether your own customers are trending toward more frequent, smaller trips — the "bite-sized trips" pattern reported nationally — or is that not something you track today? *(resolves: visit-frequency data gap)*
+
 ## See also
 
 - [assumptions](assumptions.md)

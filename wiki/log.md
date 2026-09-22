@@ -16,3 +16,10 @@ Newest entries at the bottom.
 - Created: `industry-context.md`.
 - Updated: `business-overview.md` (added "Market context" section), `assumptions.md` (added "Competitive landscape" section), `interview-questions.md` (added questions 14-15), `index.md` (added "Industry" category).
 - NDA check: public industry article, no customer/employee data — no restriction concerns.
+
+## 2026-09-21 — Ingest: JLL Grocery Tracker 2026
+
+- Source: https://www.jll.com/en-ca/insights/market-perspectives/grocery-winners-are-built-for-value-fresh-format-and-convenience (James D Cook, Heli Brecailo, Keisha Virtue, Monica Mason, JLL Insights, 2026-02-26). Saved to `raw/jll-grocery-tracker-2026-02-26.md`.
+- Updated: `industry-context.md` (added consumer bifurcation, real estate fundamentals, geographic concentration, e-commerce, and Canadian-parallel sections; expanded investment activity; flagged an Aldi store-count discrepancy against the previously ingested ICSC article), `assumptions.md` (added "Consumer behavior" section), `interview-questions.md` (added questions 16-17), `index.md` (updated industry-context summary line).
+- NDA check: public industry article, no customer/employee data — no restriction concerns.
+- Contradiction flagged during ingest (see `industry-context.md`): ICSC reports Aldi opening 150 U.S. stores in 2026; JLL reports 180 planned for 2026. Not resolved — noted for the user to verify if it becomes load-bearing for analysis.

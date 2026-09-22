@@ -11,7 +11,7 @@ _Last updated: 2026-09-21_
 
 ## Industry
 
-- [industry-context](industry-context.md) — national grocery sector trends: format shifts, big-retailer expansion, investment activity.
+- [industry-context](industry-context.md) — national grocery sector trends: consumer bifurcation, format shifts, big-retailer expansion, real estate fundamentals, e-commerce, and investment activity.
 
 ## People
 
