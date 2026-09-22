@@ -78,3 +78,4 @@ Meridian's stated positioning — prepared foods, local sourcing, smaller footpr
 - [business-overview](business-overview.md)
 - [assumptions](assumptions.md)
 - [interview-questions](interview-questions.md)
+- [specialty-grocer-locations](specialty-grocer-locations.md)

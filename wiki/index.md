@@ -25,3 +25,4 @@ _Last updated: 2026-09-21_
 
 - [assumptions](assumptions.md) — open gaps and unvalidated claims from the client brief.
 - [interview-questions](interview-questions.md) — prioritized question list for the Dana Okafor interview.
+- [specialty-grocer-locations](specialty-grocer-locations.md) — cited answer on where specialty/fresh-format grocers are opening, per our ingested sources.

@@ -23,3 +23,10 @@ Newest entries at the bottom.
 - Updated: `industry-context.md` (added consumer bifurcation, real estate fundamentals, geographic concentration, e-commerce, and Canadian-parallel sections; expanded investment activity; flagged an Aldi store-count discrepancy against the previously ingested ICSC article), `assumptions.md` (added "Consumer behavior" section), `interview-questions.md` (added questions 16-17), `index.md` (updated industry-context summary line).
 - NDA check: public industry article, no customer/employee data — no restriction concerns.
 - Contradiction flagged during ingest (see `industry-context.md`): ICSC reports Aldi opening 150 U.S. stores in 2026; JLL reports 180 planned for 2026. Not resolved — noted for the user to verify if it becomes load-bearing for analysis.
+
+## 2026-09-21 — Query filed: specialty grocer locations
+
+- Query: "What do our sources say about where specialty grocers are opening?"
+- Answered from `industry-context.md`, citing the ICSC (2026-04-24) and JLL Grocery Tracker 2026 (2026-02-26) sources already in `raw/`. No new sources ingested.
+- Filed the answer as a new page, `specialty-grocer-locations.md`, distinguishing sourced claims from one labeled original conclusion (evidence is too thin/anecdotal to say whether specialty grocers are targeting Meridian's trade areas specifically).
+- Created: `specialty-grocer-locations.md`. Updated: `industry-context.md` (cross-link), `index.md` (catalog entry).
