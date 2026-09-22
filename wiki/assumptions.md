@@ -27,8 +27,14 @@ _Last updated: 2026-09-21_
 - The brief is dated August 2026 and says the board meets "in three weeks" — that would land in early-to-mid September 2026, which appears to have already passed as of today (2026-09-21). The board-readout timeline needs reconfirming: has that meeting already happened, and if so, what came out of it? Is there a new target date?
 - Overall engagement timeline is "eight weeks or so" from the brief — also worth confirming against today's date.
 
+## Competitive landscape
+
+- National data suggests well-capitalized players (Walmart, Costco, Aldi, Target) are expanding/remodeling aggressively in the same window Meridian is evaluating Pasadena — unknown whether any of them are targeting Meridian's specific trade areas (LA/Orange/Ventura) or the Pasadena site itself. See [industry-context](industry-context.md).
+- Meridian's specialty positioning maps to the "curated experience" segment reportedly gaining share nationally — unclear whether Dana sees this validated by Meridian's own numbers, or whether it's an assumption to test.
+
 ## See also
 
 - [business-overview](business-overview.md)
 - [data-sources](data-sources.md)
 - [interview-questions](interview-questions.md)
+- [industry-context](industry-context.md)

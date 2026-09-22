@@ -23,6 +23,10 @@ _Last updated: 2026-09-21_
 - The Pasadena site is considered the obvious next location, but leadership wants data to back that up before committing (see [assumptions](assumptions.md)).
 - Stated goals: increase revenue, reduce operating costs, improve customer experience.
 
+## Market context
+
+- Meridian's positioning (prepared foods, local sourcing, smaller footprint) aligns with the national trend toward specialty/curated grocery formats gaining share, while traditional and discount formats face pressure or plateau. See [industry-context](industry-context.md).
+
 ## Sources
 
 - `raw/client-brief.md` (2026-08, from Dana Okafor)
@@ -32,3 +36,4 @@ _Last updated: 2026-09-21_
 - [stakeholders](stakeholders.md)
 - [data-sources](data-sources.md)
 - [assumptions](assumptions.md)
+- [industry-context](industry-context.md)

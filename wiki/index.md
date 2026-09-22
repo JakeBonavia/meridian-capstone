@@ -9,6 +9,10 @@ _Last updated: 2026-09-21_
 
 - [business-overview](business-overview.md) — Meridian Markets facts, growth history, strategic context.
 
+## Industry
+
+- [industry-context](industry-context.md) — national grocery sector trends: format shifts, big-retailer expansion, investment activity.
+
 ## People
 
 - [stakeholders](stakeholders.md) — who's involved in the engagement, roles, how to reach them.

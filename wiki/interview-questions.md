@@ -34,7 +34,13 @@ _Last updated: 2026-09-21_
 12. Is the eight-week engagement timeline still accurate, or has it shifted?
 13. Beyond you, is there anyone else on the Meridian side we should loop in for data or context questions, given your travel schedule?
 
+## Competitive landscape
+
+14. National coverage suggests specialty/curated grocery formats are gaining share while traditional and discount grocers plateau or pull back — does that match what you're seeing across your own 14 stores? *(resolves: "Meridian's specialty positioning maps to the curated-experience segment")*
+15. Are any of the large chains (Walmart, Costco, Aldi, Target) expanding aggressively into your trade areas or toward the Pasadena site specifically, as far as you know? *(resolves: competitive-expansion overlap gap)*
+
 ## See also
 
 - [assumptions](assumptions.md)
 - [stakeholders](stakeholders.md)
+- [industry-context](industry-context.md)
