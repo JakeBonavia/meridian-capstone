@@ -549,3 +549,27 @@ initial ingest of raw/client-brief.md."
 - **Placeholder scan:** no TBD/TODO markers; every step contains literal file content or an exact runnable command.
 - **Type/naming consistency:** filenames (`business-overview.md`, `stakeholders.md`, `data-sources.md`, `assumptions.md`, `interview-questions.md`, `index.md`, `log.md`) match exactly across every cross-reference in every task. Workflow names (Ingest/Query/Lint) match between `CLAUDE.md` (Task 1) and their usage in `log.md` entries (Task 7).
 - **Out of scope confirmed:** no task ingests restricted data or builds tooling/automation, matching the spec's "Out of scope" section.
+
+---
+
+## Review Notes
+
+Notes from reviewing the AI's output against the source material, logged per unit of work across the engagement (not all of these map 1:1 to the numbered tasks above, since Tasks 2 and 3 happened after this plan's initial build).
+
+### Task 1 — Initial wiki build from client brief
+
+- **Asked / got back:** Asked Claude to build the wiki seeded from `raw/client-brief.md`. It created 6 pages (`business-overview.md`, `stakeholders.md`, `data-sources.md`, `assumptions.md`, `interview-questions.md`, `index.md`) plus `CLAUDE.md`.
+- **Checked:** Verified the NDA boundary was stated correctly in `CLAUDE.md` (restricted vs. shareable datasets, the "never given to any AI tool" rule) and scanned every new wiki page for any restricted (loyalty/labor) data.
+- **Outcome:** Accepted — pages matched the brief's facts and the NDA rule was implemented correctly, with no restricted data present anywhere.
+
+### Task 2 — ICSC source ingest
+
+- **Asked / got back:** Asked Claude to ingest the ICSC grocery article (`raw/icsc-grocery-formats-2026-04-24.md`). It created `industry-context.md` and updated 4 existing pages with new sections, plus added 2 new interview questions.
+- **Checked:** Opened the original ICSC article alongside `wiki/industry-context.md` and spot-checked the claim that Trader Joe's grew 3% YoY.
+- **Outcome:** Accepted — the article confirmed the figure, so the sourced claim was accurate.
+
+### Task 3 — Specialty grocer locations query
+
+- **Asked / got back:** Asked what the ingested sources say about where specialty grocers are opening. Claude answered with 4 sourced claims and explicitly labeled its own synthesis/conclusion as unsourced.
+- **Checked:** Traced the Redlands Whole Foods claim back to the ICSC article to confirm it wasn't fabricated.
+- **Outcome:** Accepted — claims were properly cited and the unsourced gap was honestly flagged rather than presented as fact.
