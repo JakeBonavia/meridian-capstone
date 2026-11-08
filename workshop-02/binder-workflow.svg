@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="Helvetica, Arial, sans-serif" font-size="13">
+  <rect width="760" height="340" fill="#ffffff"/>
+  <text x="20" y="26" font-size="16" font-weight="bold">Hearing binder workflow (classroom case, fictional example)</text>
+
+  <text x="20" y="62" font-weight="bold">Today (from interview)</text>
+  <g fill="#f3f4f6" stroke="#6b7280">
+    <rect x="20" y="72" width="130" height="50" rx="6"/>
+    <rect x="170" y="72" width="150" height="50" rx="6" fill="#fee2e2" stroke="#b91c1c"/>
+    <rect x="340" y="72" width="130" height="50" rx="6"/>
+    <rect x="490" y="72" width="120" height="50" rx="6"/>
+    <rect x="630" y="72" width="110" height="50" rx="6"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="85" y="94">Attorney sends</text><text x="85" y="110">list (often late)</text>
+    <text x="245" y="94">Hunt for documents:</text><text x="245" y="110">folder / email / paper</text>
+    <text x="405" y="94">Print + order</text><text x="405" y="110">+ tabs, index</text>
+    <text x="550" y="94">Attorney</text><text x="550" y="110">reviews, changes</text>
+    <text x="685" y="94">Deliver</text><text x="685" y="110">by 3 pm</text>
+  </g>
+  <g stroke="#6b7280" fill="none" stroke-width="1.5">
+    <path d="M150 97 H170"/><path d="M320 97 H340"/><path d="M470 97 H490"/><path d="M610 97 H630"/>
+  </g>
+  <text x="170" y="142" fill="#b91c1c">Biggest time cost she confirmed</text>
+
+  <text x="20" y="190" font-weight="bold">Option A (proposed draft)</text>
+  <g fill="#f3f4f6" stroke="#6b7280">
+    <rect x="20" y="200" width="150" height="56" rx="6" fill="#dcfce7" stroke="#15803d"/>
+    <rect x="190" y="200" width="130" height="56" rx="6"/>
+    <rect x="340" y="200" width="130" height="56" rx="6"/>
+    <rect x="490" y="200" width="120" height="56" rx="6"/>
+    <rect x="630" y="200" width="110" height="56" rx="6"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="95" y="222">File or scan each</text><text x="95" y="238">document into case</text><text x="95" y="252">folder on receipt</text>
+    <text x="255" y="222">Attorney sends</text><text x="255" y="238">list</text>
+    <text x="405" y="222">Print + order</text><text x="405" y="238">+ tabs, index</text>
+    <text x="550" y="222">Attorney</text><text x="550" y="238">reviews, changes</text>
+    <text x="685" y="222">Deliver</text><text x="685" y="238">by 3 pm</text>
+  </g>
+  <g stroke="#6b7280" fill="none" stroke-width="1.5">
+    <path d="M170 228 H190"/><path d="M320 228 H340"/><path d="M470 228 H490"/><path d="M610 228 H630"/>
+  </g>
+  <text x="20" y="282" fill="#15803d">Hunting step moves earlier, so documents are already in one place</text>
+  <text x="20" y="322" font-size="11" fill="#6b7280">Illustration only. Based on practice-interview notes; no measured times or volumes.</text>
+</svg>
